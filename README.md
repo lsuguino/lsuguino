@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/lsuguino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsuguino&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsuguino&layout=compact&langs_count=10&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsuguino&layout=compact&langs_count=11&theme=panda"/>
   <img height="245em" src="https://github-readme-stats.vercel.app/api?username=lsuguino&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda"/>
  
 </div>
